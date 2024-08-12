@@ -36,8 +36,8 @@ function Headers() {
                             <ul>
                                 <li><a href="#!" class="lang_btn">EN <i class="far fa-arrow-down"></i></a>
                                     <ul class="lang_sub_list">
-                                        <li><a href="#">Bangla</a></li>
-                                        <li><a href="#">Arabic</a></li> 
+                                        <li><a href="#0">Bangla</a></li>
+                                        <li><a href="#0">Arabic</a></li> 
                                     </ul>
                                 </li>
                             </ul>

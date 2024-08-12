@@ -45,8 +45,8 @@ function Hero() {
                                     <h2 class="title">HR Consulting Service for your Business</h2>
                                     <p>You can trust us with your workforce</p>
                                     <div class="btns mt-25">
-                                        <a class="thm_btn" href="#">Our Services</a>
-                                        <a class="thm_btn thm_btn-2" href="#">Our Story</a>
+                                        <a class="thm_btn" href="#0">Our Services</a>
+                                        <a class="thm_btn thm_btn-2" href="#0">Our Story</a>
                                     </div>
                                 </div>
                             </div>
