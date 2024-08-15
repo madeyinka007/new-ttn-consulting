@@ -9,19 +9,19 @@ function About() {
                         <div class="col-lg-5">
                             <div class="experience__box bg__radius">
                                 <h1 class="big__text pos-rel">
-                                    <span class="big__text--stock">28</span>
-                                    <span class="big__text--fill">28</span>
+                                    <span class="big__text--stock">15+</span>
+                                    <span class="big__text--fill">15+</span>
                                 </h1>
-                                <h5 class="title">Year of experience</h5>
+                                <h5 class="title">Years of Cumulative Expertise</h5>
                             </div>
                         </div>
                         <div class="col-lg-7">
                             <div class="services__content mt-30 pl-90">
                                 <div class="sec__title mb-30">
                                     <span class="sub__title"><i class="fas fa-star"></i>Our Story</span>
-                                    <h2 class="title mb-25">Professional HR service for businesses across Africa</h2>
-                                    <p>We are experts in - enabling businesses and individuals, realize their full potentials. We do this by providing organizations with access to the most valuable talents available and helping individuals achieve their desired standard of living.</p>
-                                    <p>Our commitment is to make sure that we match the most qualified talent to our clients and build lasting relationships along the way.</p>
+                                    <h4 class="title_sm mb-25">Unlock the Power of Effective HR with TTN Consulting</h4>
+                                    <p>With a proven track record of over 15 years, TTN Consulting offers top-tier HR solutions designed to address your most pressing challenges. Our client-centric approach ensures personalized strategies that foster growth and efficiency. Partner with us to experience unparalleled expertise and transformative results.</p>
+                                    <p>We specialize in recruitment, training, performance management, succession planning, employee engagement, compensation and benefits, workforce planning, HR technology, trainee recruitment, psychometric testing, and assessment centers.</p>
                                 </div>
                             </div>
                         </div>
@@ -39,9 +39,9 @@ function About() {
                                     </div>
                                     <span class="feat__number">01</span>
                                 </div>
-                                <h3 class="feat__title">Excellence</h3>
-                                <p>Our zeal to surpass ordinary standards, push boundaries and give quality solutions keeps us at the apex.</p>
-                                <a class="feat__link" href="service-details.html"><i class="far fa-arrow-right"></i></a>
+                                <h3 class="feat__title">Client-Centric Approach</h3>
+                                <p>We prioritize understanding and fulfilling the unique needs of each client. This involves active listening, open communication, and tailored solutions that drive client success.</p>
+                                {/* <a class="feat__link" href="service-details.html"><i class="far fa-arrow-right"></i></a> */}
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -52,9 +52,9 @@ function About() {
                                     </div>
                                     <span class="feat__number">02</span>
                                 </div>
-                                <h3 class="feat__title">Accountability</h3>
-                                <p>We are reliable. we are responsible. We take ownership of our work and honor our commitments to clients.</p>
-                                <a class="feat__link" href="service-details.html"><i class="far fa-arrow-right"></i></a>
+                                <h3 class="feat__title" style={{fontSize:"29px"}}>Integrity & Confidentiality</h3>
+                                <p>We maintain the highest standards of integrity in all interactions, ensuring confidentiality and trust in our client relationships while handling sensitive HR matters with discretion.</p>
+                                {/* <a class="feat__link" href="service-details.html"><i class="far fa-arrow-right"></i></a> */}
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -65,9 +65,9 @@ function About() {
                                     </div>
                                     <span class="feat__number">03</span>
                                 </div>
-                                <h3 class="feat__title">Nuture</h3>
-                                <p>We nurture talents, we nurture projects. We invest in key and invaluable resources to help your business grow.</p>
-                                <a class="feat__link" href="service-details.html"><i class="far fa-arrow-right"></i></a>
+                                <h3 class="feat__title">Results-Driven Excellence</h3>
+                                <p>By setting clear objectives and benchmarks, we ensure our consulting services contribute directly to the success and growth of our clients' businesses.</p>
+                                {/* <a class="feat__link" href="service-details.html"><i class="far fa-arrow-right"></i></a> */}
                             </div>
                         </div>
                     </div>

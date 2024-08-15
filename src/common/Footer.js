@@ -53,23 +53,23 @@ function Footer() {
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-12 col-md-6 widget__border">
                                         <div class="footer__widget">
-                                            <span class="title__sub"><i class="fas fa-map-marker-alt"></i>Locations</span>
-                                            <h3 class="widget__title">Melbron, Australia</h3>
-                                            <p>Australia, Badda Tangroad 1289 789034 Hotizilsite Australia</p>
-                                            <p>Moday - Friday <br /> 10.00 AM - 07.00 PM</p>
-                                            <h5 class="address"><i class="fas fa-map-marker-alt"></i>Badda, Tangroad</h5>
+                                            <span class="title__sub"><i class="fas fa-map-marker-alt"></i>Location</span>
+                                            <h3 class="widget__title">Lagos, Nigeria</h3>
+                                            <p>10, Sophie Kuye Street, Gbagada, Lagos</p>
+                                            <p>Moday - Friday <br /> 08.00 AM - 05.00 PM</p>
+                                            {/* <h5 class="address"><i class="fas fa-map-marker-alt"></i>Badda, Tangroad</h5> */}
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-12 col-md-6 widget__border">
                                         <div class="footer__widget">
                                             <span class="title__sub"><i class="fas fa-envelope"></i>Contact Info</span>
-                                            <h3 class="widget__title">Tezzbax.web4.com</h3>
+                                            <h3 class="widget__title">Other Channels</h3>
                                             <ul class="widget__info list-unstyled">
-                                                <li>Ta-134/A, Gulshan Badda Link Rd, Dhaka, Bangladesh</li>
-                                                <li><a href="tel:+88015569569365">(+880)155 69569 365</a></li>
-                                                <li><a href="mailto:support@rstheme.com">support@rstheme.com</a></li>
-                                                <li>Office Hours: 8AM - 11PM</li>
-                                                <li>Sunday - Wekend Day</li>
+                                                {/* <li>Ta-134/A, Gulshan Badda Link Rd, Dhaka, Bangladesh</li> */}
+                                                <li><a href="tel:+88015569569365">(+234)155 69569 365</a></li>
+                                                <li><a href="mailto:info@ttnconsulting.com.ng">info@ttnconsulting.com.ng</a></li>
+                                                {/* <li>Office Hours: 8AM - 11PM</li>
+                                                <li>Sunday - Wekend Day</li> */}
                                             </ul>
                                         </div>
                                     </div>

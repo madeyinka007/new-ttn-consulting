@@ -36,7 +36,7 @@ function Testimonial() {
                                 <li><i class="fas fa-star"></i></li>
                                 <li><i class="fas fa-star"></i></li>
                             </ul>
-                            <p>“Working with Tezzbax is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</p>
+                            <p>“TTN Consulting’s expertise in executive recruitment has been invaluable to our company. Their deep understanding of the market and commitment to finding the right leaders have significantly strengthened our executive team. Highly recommended!”</p>
                             <div class="testi__quote">
                                 <img src="assets/img/icon/quote.png" alt="" />
                             </div>
@@ -53,7 +53,7 @@ function Testimonial() {
                                 <li><i class="fas fa-star"></i></li>
                                 <li><i class="fas fa-star"></i></li>
                             </ul>
-                            <p>“Working with Tezzbax is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</p>
+                            <p>“Our compliance with HR regulations has never been better, thanks to TTN Consulting. Their thorough and proactive approach to HR compliance has helped us navigate complex regulations smoothly, ensuring we remain ahead of the curve.”</p>
                             <div class="testi__quote">
                                 <img src="assets/img/icon/quote.png" alt="" />
                             </div>
@@ -70,7 +70,7 @@ function Testimonial() {
                                 <li><i class="fas fa-star"></i></li>
                                 <li><i class="fas fa-star"></i></li>
                             </ul>
-                            <p>“Working with Tezzbax is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</p>
+                            <p>“The assessment center designed by TTN Consulting was a game-changer for our recruitment process. Their professional and innovative approach ensured we identified the best candidates effectively and efficiently. We look forward to future collaborations.”</p>
                             <div class="testi__quote">
                                 <img src="assets/img/icon/quote.png" alt="" />
                             </div>
@@ -87,7 +87,7 @@ function Testimonial() {
                                 <li><i class="fas fa-star"></i></li>
                                 <li><i class="fas fa-star"></i></li>
                             </ul>
-                            <p>“Working with Tezzbax is always an absolute joy, both personally and professionally. Tommy is an amazing speaker; her experience, expertise and genuine passion for what she does is obvious in every word he says.”</p>
+                            <p>“TTN Consulting's expertise in talent management has transformed our approach to recruiting and developing staff. Their insights and strategies have greatly enhanced our team’s performance and alignment with our business goals.”              </p>
                             <div class="testi__quote">
                                 <img src="assets/img/icon/quote.png" alt="" />
                             </div>

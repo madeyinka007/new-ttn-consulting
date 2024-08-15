@@ -303,14 +303,28 @@ p, li, span {
 .sec__title .title {
   font-size: 55px;
   line-height: 60px; }
+  .sec__title .title_sm {
+    font-size: 35px;
+    line-height: 50px;
+  }
   @media (max-width: 1199px) {
     .sec__title .title {
       font-size: 45px;
-      line-height: 55px; } }
+      line-height: 55px; } 
+    .sec__title .title_sm {
+      font-size: 35px;
+      line-height: 55px;
+    }
+    }
   @media (max-width: 767px) {
     .sec__title .title {
       font-size: 36px;
-      line-height: 48px; } }
+      line-height: 48px; } 
+    .sec__title .title_sm {
+      font-size: 26px;
+      line-height: 38px;
+    }
+    }
 .sec__title p {
   font-size: 18px;
   line-height: 30px; }
