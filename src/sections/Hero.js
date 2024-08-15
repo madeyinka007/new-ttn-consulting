@@ -2,7 +2,7 @@
 
 function Hero() {
   return (
-                <section class="hero__area hero__v2 hero__height" id="home">
+                <section class="hero__area hero__v2 hero__height" id="#">
                     <div class="container maxw_1410">
                         <div class="row align-items-center flex-row-reverse mt-none-50">
                             <div class="col-lg-7">

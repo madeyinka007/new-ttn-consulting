@@ -2,8 +2,8 @@ import React from 'react'
 
 function About() {
   return (
-        <>
-            <section class="services__area pt-120" id="about">
+        <span className="pt-120" id="about">
+            <section class="services__area">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5">
@@ -18,7 +18,7 @@ function About() {
                         <div class="col-lg-7">
                             <div class="services__content mt-30 pl-90">
                                 <div class="sec__title mb-30">
-                                    <span class="sub__title"><i class="fas fa-star"></i>Our Story</span>
+                                    <span class="sub__title"><i class="fas fa-star"></i>About Us</span>
                                     <h4 class="title_sm mb-25">Unlock the Power of Effective HR with TTN Consulting</h4>
                                     <p>With a proven track record of over 15 years, TTN Consulting offers top-tier HR solutions designed to address your most pressing challenges. Our client-centric approach ensures personalized strategies that foster growth and efficiency. Partner with us to experience unparalleled expertise and transformative results.</p>
                                     <p>We specialize in recruitment, training, performance management, succession planning, employee engagement, compensation and benefits, workforce planning, HR technology, trainee recruitment, psychometric testing, and assessment centers.</p>
@@ -73,7 +73,7 @@ function About() {
                     </div>
                 </div>
             </section>
-        </>
+        </span>
             
   )
 }

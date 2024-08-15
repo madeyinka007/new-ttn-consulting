@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <footer class="footer__area footer__style--1">
+        <footer class="footer__area footer__style--1" id="contact">
             <div class="foooter__main">
                 <div class="container-fluid p-0">
                     <div class="row g-0">
@@ -16,37 +16,32 @@ function Footer() {
                                                 <input type="text" placeholder="Enter your name*" />
                                             </div>
                                         </div>
-                                                        <div class="col-md-6">
-                                                            <div class="input_field">
-                                                                <input type="email" placeholder="Enter your email*" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="input_field">
-                                                                <input type="number" placeholder="Enter your  number*" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-6">
-                                                            <div class="input_field">
-                                                                <input type="text" placeholder="Subject*" />
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-md-12">
-                                                            <div class="input_field">
-                                                                <textarea name="message" id="message" cols="30" rows="10" placeholder="Enter your Message*"></textarea>
-                                                            </div>
-                                                        </div>
-                                                        <div class="text-center">
-                                                            {/* <div class="check_box check_box-2 d-flex justify-content-center mt-10 mb-30">
-                                                                <input id="remember_btn" type="checkbox">
-                                                                <label for="remember_btn">Save my name, email, and website in this browser for the next time I comment.</label>
-                                                            </div> */}
-                                                            <button class="thm_btn">submit Request</button>
-                                                        </div>
-                                                    </div>
-                                                </form>
-                            </div>
-                            
+                                        <div class="col-md-6">
+                                            <div class="input_field">
+                                                <input type="email" placeholder="Enter your email*" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="input_field">
+                                                <input type="number" placeholder="Enter your  number*" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="input_field">
+                                                <input type="text" placeholder="Subject*" />
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="input_field">
+                                                <textarea name="message" id="message" cols="30" rows="10" placeholder="Enter your Message*"></textarea>
+                                            </div>
+                                        </div>
+                                        <div class="text-center">
+                                            <button class="thm_btn">submit Request</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>   
                         </div>
                         <div class="col-lg-6">
                             <div class="widget__wrap">
@@ -66,7 +61,7 @@ function Footer() {
                                             <h3 class="widget__title">Other Channels</h3>
                                             <ul class="widget__info list-unstyled">
                                                 {/* <li>Ta-134/A, Gulshan Badda Link Rd, Dhaka, Bangladesh</li> */}
-                                                <li><a href="tel:+88015569569365">(+234)155 69569 365</a></li>
+                                                <li><a href="tel:+88015569569365">(+234)814 501 4051</a></li>
                                                 <li><a href="mailto:info@ttnconsulting.com.ng">info@ttnconsulting.com.ng</a></li>
                                                 {/* <li>Office Hours: 8AM - 11PM</li>
                                                 <li>Sunday - Wekend Day</li> */}
@@ -84,16 +79,16 @@ function Footer() {
                     <div class="row align-items-center mt-none-15">
                         <div class="col-lg-3 col-md-3 mt-15">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt="" /></a>
+                                <a href="#"><img src="assets/img/logo/logo.svg" alt="" /></a>
                             </div>
                         </div>
                         <div class="col-lg-9 col-md-9 mt-15">
                            <ul class="footer__nav ul_li_right">
-                               <li><a href="#!">How it works? </a></li>
-                               <li><a href="#!">pricing</a></li>
-                               <li><a href="#!">Our Clients</a></li>
-                               <li><a href="#!">Faq</a></li>
-                               <li><a href="#!">Help Center</a></li>
+                               <li><a href="#">Home </a></li>
+                               <li><a href="#about">About</a></li>
+                               <li><a href="#clients">Clients</a></li>
+                               <li><a href="#services">Services</a></li>
+                               <li><a href="#testimonial">Testimonial</a></li>
                            </ul>
                         </div>
                     </div>

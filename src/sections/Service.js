@@ -25,22 +25,24 @@ function Service() {
         }
     ]
   return (
-            <section class="faq__area pt-120">
-                <div class="container">
-                    <div class="row mb-120 mt-none-30">
-                        <div class="col-lg-10">
-                            <div class="faq__wrapper faq__wrapper--2 mt-30">
-                                <h2 className="title">Services</h2>
-                                <ul class="accordion__box clearfix">
-                                    {services.map((item, index) => (
-                                        <Accordion key={index} title={item.title} content={item.description} />
-                                    ))}
-                                </ul>
-                           </div>
-                        </div>
-                    </div>     
-                </div>
-            </section>
+            <span className="pt-120" id="services">
+                <section class="faq__area pt-120">
+                    <div class="container">
+                        <div class="row mb-120 mt-none-30">
+                            <div class="col-lg-10">
+                                <div class="faq__wrapper faq__wrapper--2 mt-30">
+                                    <h2 className="title">Services</h2>
+                                    <ul class="accordion__box clearfix">
+                                        {services.map((item, index) => (
+                                            <Accordion key={index} title={item.title} content={item.description} />
+                                        ))}
+                                    </ul>
+                            </div>
+                            </div>
+                        </div>     
+                    </div>
+                </section>
+            </span>
   )
 }
 

@@ -4,7 +4,7 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 
 function Clients() {
   return (
-            <section class="brand__area pt-120 pb-100">
+            <section class="brand__area pt-120 pb-100" id="clients">
                 <div class="container">
                     <div class="brand__title text-center mb-50">
                         <span>Client Who work with us</span>
